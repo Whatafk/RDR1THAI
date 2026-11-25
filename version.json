@@ -1,14 +1,14 @@
 {
-  "version": "1.1",
-  "notes": "แก้บัคชิป MediaTek/Mali จอดำ 0 FPS และค้างตอนกดตั้งค่า + แก้ภาพแตกเป็นจุดๆ + เพิ่มความคมชัด 60 FPS + ภาษาไทยล่าสุด",
+  "version": "1.2",
+  "notes": "แก้ข้อความและคำบรรยายตกบรรทัดกลางคำทั้งหมดทุกขนาดฟอนต์ (1.0x–1.25x) + แก้ปุ่ม ดำเนินการต่อ เป็น ต่อไป ไม่ล้นปุ่ม",
   "files": [
     {
       "name": "strings_android.rpf",
-      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.1/strings_android.rpf"
+      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.2/strings_android.rpf"
     },
     {
       "name": "tune_android.rpf",
-      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.1/tune_android.rpf"
+      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.2/tune_android.rpf"
     }
   ]
 }
