@@ -1,10 +1,14 @@
 {
-  "version": "1.0",
-  "notes": "แพตช์ภาษาไทย RDR1 v1.0 (เวอร์ชันเริ่มต้น — แปลไทยโดย อยากแปลเล่นเองK)",
+  "version": "1.1",
+  "notes": "แก้บัคชิป MediaTek/Mali จอดำ 0 FPS และค้างตอนกดตั้งค่า + แก้ภาพแตกเป็นจุดๆ + เพิ่มความคมชัด 60 FPS + ภาษาไทยล่าสุด",
   "files": [
     {
       "name": "strings_android.rpf",
-      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.0/strings_android.rpf"
+      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.1/strings_android.rpf"
+    },
+    {
+      "name": "tune_android.rpf",
+      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.1/tune_android.rpf"
     }
   ]
 }
