@@ -1,18 +1,18 @@
 {
-  "version": "1.4",
-  "notes": "อัปเดต v1.4: ชื่อสูตรโกงอังกฤษ+ไทย 40 สูตร + แก้หน้าต่างกรอกสูตรโกงเป็นภาษาไทย + เปลี่ยนคัตซีนเป็น ทำต่อ + ปลดล็อคเมนูกราฟิก/60FPS ใน APKS",
+  "version": "1.5",
+  "notes": "อัปเดต v1.5: แก้ระบบเปลี่ยนสีฟอนต์ 8 สีให้แสดงผลจริงทั้งซับไตเติลและเมนู + ซ่อนเมนูความละเอียด PC ที่ว่างบน Android (คง 60FPS/กราฟิก/สเกลภาพครบ)",
   "files": [
     {
       "name": "strings_android.rpf",
-      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.4/strings_android.rpf"
+      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.5/strings_android.rpf"
     },
     {
       "name": "tune_android.rpf",
-      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.4/tune_android.rpf"
+      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.5/tune_android.rpf"
     },
     {
       "name": "flash_android.rpf",
-      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.4/flash_android.rpf"
+      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.5/flash_android.rpf"
     }
   ]
 }
