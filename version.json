@@ -1,18 +1,18 @@
 {
-  "version": "1.3",
-  "notes": "อัปเดต v1.3 เต็มรูปแบบ: แก้ภาษาจีนหน้าโป๊กเกอร์และมินิเกม + แก้ภาพแตกบน Mali-G57 MC2 + แปลสูตรโกง 40 สูตร + ชื่อตัวละคร/สถานที่ ModThai V1.3 + รองรับเปลี่ยนสีฟอนต์ 8 สี",
+  "version": "1.4",
+  "notes": "อัปเดต v1.4: ชื่อสูตรโกงอังกฤษ+ไทย 40 สูตร + แก้หน้าต่างกรอกสูตรโกงเป็นภาษาไทย + เปลี่ยนคัตซีนเป็น ทำต่อ + ปลดล็อคเมนูกราฟิก/60FPS ใน APKS",
   "files": [
     {
       "name": "strings_android.rpf",
-      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.3/strings_android.rpf"
+      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.4/strings_android.rpf"
     },
     {
       "name": "tune_android.rpf",
-      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.3/tune_android.rpf"
+      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.4/tune_android.rpf"
     },
     {
       "name": "flash_android.rpf",
-      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.3/flash_android.rpf"
+      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.4/flash_android.rpf"
     }
   ]
 }
