@@ -1,18 +1,5 @@
 {
-  "version": "1.6",
-  "notes": "v1.6: Remove font color, fix loop and clean graphics menu",
-  "files": [
-    {
-      "name": "strings_android.rpf",
-      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.6/strings_android.rpf"
-    },
-    {
-      "name": "tune_android.rpf",
-      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.6/tune_android.rpf"
-    },
-    {
-      "name": "flash_android.rpf",
-      "url": "https://github.com/Whatafk/RDR1THAI/releases/download/v1.6/flash_android.rpf"
-    }
-  ]
+  "version": "1.7",
+  "notes": "แพตช์ภาษาไทย v1.7 ฝังอยู่ในตัวเกม ThaiClean-v3 แล้ว (เป็นเวอร์ชันล่าสุด ไม่ต้องโหลดแพตช์เก่าซ้ำ)",
+  "files": []
 }
