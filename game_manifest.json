@@ -1,0 +1,37 @@
+{
+  "games": [
+    {
+      "id": "thaiclean_v3",
+      "title": "RDR1 v1.58 ThaiClean v3 (APKVision 60 FPS)",
+      "version": "v1.58 ThaiClean-v3",
+      "description": "แนะนำ! แปลไทยครบ + ปลดล็อก 60 FPS + รองรับโฟลเดอร์ /RDR1/mod/ เต็มรูปแบบ (เปลี่ยน mode เป็น direct และใส่ลิงก์ R2/CDN เพื่อเปิดโหลด 1 คลิกในตัว)",
+      "mode": "web",
+      "webUrl": "https://gofile.io/d/daavrfOP",
+      "fileName": "RDR1-v1.58-ThaiClean-v3-APKVision60FPS.apks",
+      "sizeBytes": 7955466354,
+      "recommended": true
+    },
+    {
+      "id": "thaifull_v14",
+      "title": "RDR1 v1.58 ThaiFull v1.4",
+      "version": "v1.58 ThaiFull-v1.4",
+      "description": "เวอร์ชัน ThaiFull v1.4 (เปลี่ยน mode เป็น direct และใส่ลิงก์ R2/CDN เพื่อเปิดโหลด 1 คลิกในตัว)",
+      "mode": "web",
+      "webUrl": "https://gofile.io/d/daavrfOP",
+      "fileName": "RDR1-v1.58-ThaiFull-v1.4.apks",
+      "sizeBytes": 7958418780,
+      "recommended": false
+    },
+    {
+      "id": "thaiclean_v2",
+      "title": "RDR1 v1.58 ThaiClean v2 (APKVision 60 FPS)",
+      "version": "v1.58 ThaiClean-v2",
+      "description": "เวอร์ชัน ThaiClean v2 (เปลี่ยน mode เป็น direct และใส่ลิงก์ R2/CDN เพื่อเปิดโหลด 1 คลิกในตัว)",
+      "mode": "web",
+      "webUrl": "https://gofile.io/d/daavrfOP",
+      "fileName": "RDR1-v1.58-ThaiClean-v2-APKVision60FPS.apks",
+      "sizeBytes": 7955929030,
+      "recommended": false
+    }
+  ]
+}
