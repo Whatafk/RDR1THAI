@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "3.1",
-  "apkUrl": "https://github.com/Whatafk/RDR1THAI/releases/latest/download/RDR1_SaveManager.apk",
+  "versionCode": 21,
+  "versionName": "3.2",
+  "apkUrl": "https://pub-4d0abcf2d7a44d329d1e9521b4876ef0.r2.dev/RDR1_SaveManager.apk",
   "sizeBytes": 19383688,
-  "changelog": "• อัปเกรดตัวดาวน์โหลดใหม่เป็นแบบ 6 เธรดพร้อมกัน (Multi-Thread Parallel Range) โหลดเร็วขึ้น 3x–5x!\n• รองรับหยุดชั่วคราว/โหลดต่อ (Resume) ครบทุกเธรดด้วยไฟล์ .state และโอนต่อไฟล์ค้างจาก v3.0 ได้อัตโนมัติ\n• แสดงจำนวนเธรดที่กำลังวิ่ง + ความเร็วรวม (MB/s) บนหน้าจอติดตั้งเต็มจอ\n• เพิ่มระบบ Retry อัตโนมัติเมื่อเน็ตสะดุด และสลับกลับ 1 เธรดอัตโนมัติหากเซิร์ฟเวอร์ไม่รองรับ Range"
+  "changelog": "• ย้ายลิงก์อัปเดตแอปจาก GitHub Releases (ที่ออกไทยช้า ~0.1 MB/s) มาไว้บน Cloudflare R2 เร็วขึ้นกว่าเดิม 10x–60x!\n• อัปเกรดตัวดาวน์โหลดเป็น 12 เธรดพร้อมกัน (Parallel Range) ดันความเร็ว R2 เพิ่มขึ้นเกือบ 2 เท่า\n• รองรับ Resume .state, โอนต่อไฟล์ค้าง, Retry อัตโนมัติ และตรวจ SHA-256 ครบถ้วน"
 }
