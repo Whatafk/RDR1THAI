@@ -4,19 +4,20 @@
       "id": "thaiclean_v3",
       "title": "RDR1 v1.58 ThaiClean v3 (APKVision 60 FPS)",
       "version": "v1.58 ThaiClean-v3",
-      "description": "แนะนำ! แปลไทยครบ + ปลดล็อก 60 FPS + รองรับโฟลเดอร์ /RDR1/mod/ เต็มรูปแบบ (เปลี่ยน mode เป็น direct และใส่ลิงก์ R2/CDN เพื่อเปิดโหลด 1 คลิกในตัว)",
+      "description": "แนะนำ! แปลไทยครบ + ปลดล็อก 60 FPS + รองรับโฟลเดอร์ /RDR1/mod/ เต็มรูปแบบ (Direct Link โหลดในตัว + เช็ก SHA-256 อัตโนมัติ)",
       "mode": "direct",
+      "url": "https://pub-4d0abcf2d7a44d329d1e9521b4876ef0.r2.dev/RDR1-v1.58-ThaiClean-v3-APKVision60FPS.apks",
       "webUrl": "https://gofile.io/d/daavrfOP",
       "fileName": "RDR1-v1.58-ThaiClean-v3-APKVision60FPS.apks",
       "sizeBytes": 7955466354,
-      "recommended": true,
-      "url": "https://pub-4d0abcf2d7a44d329d1e9521b4876ef0.r2.dev/RDR1-v1.58-ThaiClean-v3-APKVision60FPS.apks"
+      "sha256": "798c0971073bf6a8b50941f595f0b2e4304a4764f4c013cb47d56e8b1cef476b",
+      "recommended": true
     },
     {
       "id": "thaifull_v14",
       "title": "RDR1 v1.58 ThaiFull v1.4",
       "version": "v1.58 ThaiFull-v1.4",
-      "description": "เวอร์ชัน ThaiFull v1.4 (เปลี่ยน mode เป็น direct และใส่ลิงก์ R2/CDN เพื่อเปิดโหลด 1 คลิกในตัว)",
+      "description": "เวอร์ชัน ThaiFull v1.4 (เปิดหน้า Gofile เพื่อโหลด แล้วกลับมาติดตั้งในแอปนี้ได้เลย)",
       "mode": "web",
       "webUrl": "https://gofile.io/d/daavrfOP",
       "fileName": "RDR1-v1.58-ThaiFull-v1.4.apks",
@@ -27,11 +28,22 @@
       "id": "thaiclean_v2",
       "title": "RDR1 v1.58 ThaiClean v2 (APKVision 60 FPS)",
       "version": "v1.58 ThaiClean-v2",
-      "description": "เวอร์ชัน ThaiClean v2 (เปลี่ยน mode เป็น direct และใส่ลิงก์ R2/CDN เพื่อเปิดโหลด 1 คลิกในตัว)",
+      "description": "เวอร์ชัน ThaiClean v2 (เปิดหน้า Gofile เพื่อโหลด แล้วกลับมาติดตั้งในแอปนี้ได้เลย)",
       "mode": "web",
       "webUrl": "https://gofile.io/d/daavrfOP",
       "fileName": "RDR1-v1.58-ThaiClean-v2-APKVision60FPS.apks",
       "sizeBytes": 7955929030,
+      "recommended": false
+    },
+    {
+      "id": "gofile_all",
+      "title": "คลังไฟล์ทุกเวอร์ชัน (Gofile — daavrfOP)",
+      "version": "รวมทุกเวอร์ชัน",
+      "description": "เปิดหน้า Gofile เพื่อเลือกดาวน์โหลดไฟล์ตัวเกมและอัปเดตย้อนหลังทุกเวอร์ชันด้วยตัวเอง",
+      "mode": "web",
+      "webUrl": "https://gofile.io/d/daavrfOP",
+      "fileName": "",
+      "sizeBytes": 0,
       "recommended": false
     }
   ]
