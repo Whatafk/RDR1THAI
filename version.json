@@ -1,10 +1,14 @@
 {
-  "version": "1.8",
-  "notes": "v1.8: เปลี่ยน เรดาร์ -> แผนที่, ขยายกล่องบทช่วยสอนซ้ายบนและคำเตือนเป็นแนวนอนยาวขึ้น, แก้คำตกบรรทัดและไม้ยมก 'ๆ' ตกบรรทัดทั้งหมด (ไม่ต้องลงเกม 8 GB ใหม่)",
+  "version": "1.9",
+  "notes": "v1.9: อัปเดตโลโก้หน้าเข้าเกม/เลือกโหมด/หน้าเซฟเป็น 'แดนคนบาป วิถีคนเถื่อน' และแปลไทยหนังสือพิมพ์ Blackwater Ledger ครบทุกฉบับ (ไม่ต้องลงเกม 8 GB ใหม่)",
   "files": [
     {
       "name": "strings_android.rpf",
       "url": "https://pub-4d0abcf2d7a44d329d1e9521b4876ef0.r2.dev/strings_android.rpf"
+    },
+    {
+      "name": "flash_android.rpf",
+      "url": "https://pub-4d0abcf2d7a44d329d1e9521b4876ef0.r2.dev/flash_android.rpf"
     }
   ]
 }
