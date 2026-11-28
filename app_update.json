@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "3.4",
+  "versionCode": 24,
+  "versionName": "3.5",
   "apkUrl": "https://pub-4d0abcf2d7a44d329d1e9521b4876ef0.r2.dev/RDR1_SaveManager.apk",
   "sizeBytes": 19383688,
-  "changelog": "• ล้างไฟล์แพตช์ภาษาไทยเก่า (ต่ำกว่า v1.7) อัตโนมัติเมื่อเปิดแอปและก่อนเข้าเกม (ไม่ลบไฟล์กราฟิก tune_android.rpf)\n• อัปเกรดระบบล็อกภาพ HD (ปิด DRS) ให้บังคับ OverrideDRSThermalLevel1-3=1.00 คู่กับ DisableDRSThermals ทั้งในโปรไฟล์หลักและ PerfMode"
+  "changelog": "• แก้บั๊กกดเปลี่ยนโหมดกราฟิก 'เน้นประสิทธิภาพ <-> เน้นภาพสวย' ในเมนูเกมแล้วค้าง/เด้งออก (ลบค่าที่สลับกลางเกมไม่ได้ออกจาก Android_PerfMode)\n• หลังอัปเดต ให้เข้าแท็บ 🎮 กราฟิก แล้วกดติดตั้งโหมดที่ใช้ซ้ำ 1 ครั้งเพื่ออัปเดต tune_android.rpf"
 }
